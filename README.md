@@ -4,4 +4,4 @@ In this paper, I along with Hermish Mehta and Edward Chang explore how the legac
 
 Since housing markets vary drastically between cities due to different local and state regulations, we concentrate on a single cosmopolitan city: Boston, MA. We restrict ourselves to examining how race plays a role in determining house values in the city and its suburbs. To that end, we consider the Boston Housing Dataset, which contains information collected by the US Census Service in 1970. 
 
-For further details, please refer to the `Project Report.pdf`. The code is available as an appendix.
+For further details, please refer to `Project Report.pdf`. The code is available in the appendix.
